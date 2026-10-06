@@ -1,9 +1,5 @@
 # Radiation Detectors and Signal Processing
 
-**Medical Instrumentation and Devices** · Universidad Carlos III de Madrid
-
-**Carolina Martín** · 02/10/2026
-
 ---
 
 ## 2. Radiation Pulse Processing
