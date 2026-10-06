@@ -73,3 +73,5 @@ for e = Eref, line([e e], yl, 'Color','r','LineStyle','--'); end        % photop
 for e = Ec,   line([e e], yl, 'Color',[0 0.6 0],'LineStyle',':'); end    % Compton edges
 xlabel('Energy (keV)'); ylabel('Counts')
 title('{}^{22}Na spectrum (calibrated)')
+
+
