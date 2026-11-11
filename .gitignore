@@ -6,3 +6,8 @@ slprj/
 # Local folders not intended for GitHub
 /ECG_signal_analysis/
 /Interface_Control/
+/EGM_analysis/
+/3DSlicer_IGTmodule_Navigation_Registration/
+/User_Interface_Design/
+/EEG_analysis/
+
